@@ -1,5 +1,4 @@
 # InstagramAPICrawler
-INSTRAGRAM DATA CRAWLER
 ==============
 
 Summary
